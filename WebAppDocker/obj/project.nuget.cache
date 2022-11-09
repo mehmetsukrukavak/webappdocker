@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "fD1iRwxYQ/E7iefyFvibWe2OUl0vfqm9GmlSHDVfQa66FbX5bQS8wfr4O3qtolYqd7ZeUd8pfT5qCmO7LZGN6A==",
+  "success": true,
+  "projectFilePath": "/Users/mehmetsukrukavak/Projects/WebAppDocker/WebAppDocker/WebAppDocker.csproj",
+  "expectedPackageFiles": [
+    "/Users/mehmetsukrukavak/.nuget/packages/microsoft.aspnetcore.app.ref/3.1.10/microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512",
+    "/Users/mehmetsukrukavak/.nuget/packages/microsoft.netcore.app.host.osx-x64/3.1.31/microsoft.netcore.app.host.osx-x64.3.1.31.nupkg.sha512",
+    "/Users/mehmetsukrukavak/.nuget/packages/microsoft.netcore.app.ref/3.1.0/microsoft.netcore.app.ref.3.1.0.nupkg.sha512"
+  ],
+  "logs": []
+}
